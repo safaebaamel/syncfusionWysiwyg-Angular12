@@ -1,0 +1,1 @@
+# syncfusionWysiwyg-Angular12
